@@ -55,5 +55,3 @@ class Solution:
                     self.helper( fixedUpperBits | start, newLength,  leftBits )
 
         return
-
-print(Solution().readBinaryWatch(5))

@@ -3,8 +3,11 @@
 Given "bcabc"
 Return "abc"
 
-Given "cbacdcbc"
+Given "cbcacdcbc"
 Return "acdb"
+
+
+find the smallest letter and try to move it to the head
 """
 class Solution:
 
@@ -26,7 +29,7 @@ class Solution:
             
             print( "old: ", oldLexOrder , "  new: ", newLexOrder)
 
-            if oldLexOrder != newLexOrder:
+            if oldLexOrder > newLexOrder:
                 greedyLeft = self.removeDuplicateLetters( oldLexOrder + s[i+1:])
                 greedyRight = self.removeDuplicateLetters( newLexOrder + s[i+1:])
                 print( "greedyLeft: ", greedyLeft , "  greedyRight: ", greedyRight)
