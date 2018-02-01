@@ -58,6 +58,7 @@ class Solution:
                         if -1 != lexGetsBiggerPoint:
                             subS = s[idx+1 : lexGetsBiggerPoint]
                             print( lexGetsBiggerPoint, "subS:", subS)
+<<<<<<< HEAD
 
                             #for predCh in set(subS):
                             #    print("search in left:", s[:idx])   #dont' include current char to avoid "babc"
