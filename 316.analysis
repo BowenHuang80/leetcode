@@ -1,0 +1,92 @@
+
+y...y
+yZy =>  yZ
+yXZy => XZy
+yAy
+
+                  Z      : pass
+                  ZAZ    : AZ - repeat
+
+
+[Z-A]
+yioccqiorhtoslwlvfgzycahonecugtatbyphpuunwvaalcpndabyldkdtzfjlgwqk  : Z=z
+yioccqiorhtoslwlvfg ycahonecugtatbyphpuunwvaalcpndabyldkdtzfjlgwqk  : AZA
+yioccqiorhtoslwlvfg ycahonecugtatbyphpuunwvaalcpndabyldkdtzfjlgwqk  : Z=y
+y                   y                                               : ZAZ
+ ioccqiorhtoslwlvfg ycahonecugtatbyphpuunwvaalcpndabyldkdtzfjlgwqk  : AZ
+                    y             y                                 : ZAZ
+ ioccqiorhtoslwlvfg  cahonecugtatbyphpuunwvaalcpndabyldkdtzfjlgwqk  : AZ
+                                  y                 y               : ZAZ 
+ ioccqiorhtoslwlvfg  cahonecugtatb phpuunwvaalcpndabyldkdtzfjlgwqk  : AZ
+ ioccqiorhtoslwlvfg  cahonecugtatb phpuunwvaalcpndabyldkdtzfjlgwqk  : Z=x,w
+              w                          w                          : ZAZ
+ ioccqiorhtosl lvfg  cahonecugtatb phpuunwvaalcpndabyldkdtzfjlgwqk  : AZ
+                                         w                     w    : ZAZ
+ ioccqiorhtosl lvfg  cahonecugtatb phpuun vaalcpndabyldkdtzfjlgwqk  : AZ                                         
+ ioccqiorhtosl lvfg  cahonecugtatb phpuun vaalcpndabyldkdtzfjlgwqk  : Z=v
+                v                         v                         : ZAZ
+ ioccqiorhtosl l fg  cahonecugtatb phpuun vaalcpndabyldkdtzfjlgwqk  : AZ
+ ioccqiorhtosl l fg  cahonecugtatb phpuun vaalcpndabyldkdtzfjlgwqk  : Z=u
+                            u         u                             : ZAZ
+ ioccqiorhtosl l fg  cahonec gtatb phpuun vaalcpndabyldkdtzfjlgwqk  : AZ
+                                      uu                            : ZAZ
+ ioccqiorhtosl l fg  cahonec gtatb php un vaalcpndabyldkdtzfjlgwqk  : AZ
+ ioccqiorhtosl l fg  cahonec gtatb php un vaalcpndabyldkdtzfjlgwqk  : Z=t
+          t                   t                                     : ZAZ
+ ioccqiorh osl l fg  cahonec gtatb php un vaalcpndabyldkdtzfjlgwqk  : AZ
+                              t t                                   : ZAZ
+ ioccqiorh osl l fg  cahonec g atb php un vaalcpndabyldkdtzfjlgwqk  : AZ
+                                t                        t          : ZAZ
+ ioccqiorh osl l fg  cahonec g a b php un vaalcpndabyldkdtzfjlgwqk  : AZ
+ ioccqiorh osl l fg  cahonec g a b php un vaalcpndabyldkdtzfjlgwqk  : Z=s
+            s                                                       : AZ
+ ioccqiorh osl l fg  cahonec g a b php un vaalcpndabyldkdtzfjlgwqk  : Z=r
+        r 
+ ioccqiorh osl l fg  cahonec g a b php un vaalcpndabyldkdtzfjlgwqk  : Z=q
+     q                                                          q   : ZAZ
+ iocc iorh osl l fg  cahonec g a b php un vaalcpndabyldkdtzfjlgwqk  : AZ
+ iocc iorh osl l fg  cahonec g a b php un vaalcpndabyldkdtzfjlgwqk  : Z=p
+                                   p p                              : ZAZ
+ iocc iorh osl l fg  cahonec g a b  hp un vaalcpndabyldkdtzfjlgwqk  : AZ
+                                     p         p                    : ZAZ
+ iocc iorh osl l fg  cahonec g a b  h  un vaalcpndabyldkdtzfjlgwqk  : AZ
+ iocc iorh osl l fg  cahonec g a b  h  un vaalcpndabyldkdtzfjlgwqk  : Z=o
+  o    o                                                            : ZAZ
+ i cc iorh osl l fg  cahonec g a b  h  un vaalcpndabyldkdtzfjlgwqk  : AZ
+       o   o                                                        : ZAZ
+ i cc i rh osl l fg  cahonec g a b  h  un vaalcpndabyldkdtzfjlgwqk  : AZ
+           o            o                                           : ZAZ
+ i cc i rh  sl l fg  cahonec g a b  h  un vaalcpndabyldkdtzfjlgwqk  : AZ
+ i cc i rh  sl l fg  cahonec g a b  h  un vaalcpndabyldkdtzfjlgwqk  : Z=n
+                         n              n                           : ZAZ
+ i cc i rh  sl l fg  caho ec g a b  h  un vaalcpndabyldkdtzfjlgwqk  : AZ
+                                        n       n                   : ZAZ
+ i cc i rh  sl l fg  caho ec g a b  h  u  vaalcpndabyldkdtzfjlgwqk  : AZ
+ i cc i rh  sl l fg  caho ec g a b  h  u  vaalcpndabyldkdtzfjlgwqk  : Z=m,l
+             l l                                                    : ZAZ
+ i cc i rh  s  l fg  caho ec g a b  h  u  vaalcpndabyldkdtzfjlgwqk  : AZ
+
+               l                             l       l       l      : ZAZAZ
+ i cc i rh  s    fg  caho ec g a b  h  u  vaa cpndaby dkdtzfjlgwqk  : AZ
+ i cc i rh  s    fg  caho ec g a b  h  u  vaa cpndaby dkdtzfjlgwqk  : Z=k
+                                                       k         k  : ZAZ
+ i cc i rh  s    fg  caho ec g a b  h  u  vaa cpndaby d dtzfjlgwqk  : AZ
+ i cc i rh  s    fg  caho ec g a b  h  u  vaa cpndaby d dtzfjlgwqk  : Z=j
+                                                            j
+ i cc i rh  s    fg  caho ec g a b  h  u  vaa cpndaby d dtzfjlgwqk  : Z=i                                                           
+ i    i                                                   
+
+
+
+
+
+ bcabc  : Z=c
+  c  c  : ZAZ
+ b abc  : AZ
+ b abc  : Z=b
+ b  b   : ZAZ
+   abc  : AZ
+   abc  : Z=a
+   a
+
+abc
