@@ -1,0 +1,39 @@
+import time
+
+def validateSin(tgtSin):
+	if len(tgtSin) != 9 :
+		return False
+	if tgtSin[0] == '8' or tgtSin[0] == '0' or tgtSin == '999999998' :
+		return False
+		
+	evenPart = int(tgtSin[1] + tgtSin[3] + tgtSin[5] + tgtSin[7])
+	print("eventPart:" + str(evenPart))
+	evenPart *= 2
+	
+	evenPart2 = str(evenPart)
+	print("evenparts*2" + evenPart2)
+	evenPart2Sum = 0
+	sum1 = 0
+	for ch in evenPart2:
+		evenPart2Sum += int(ch)
+		#evenPart2Sum = int(ch) #evenPart2[0]) + int(evenPart2[1]) + int(evenPart2[2]) + int(evenPart2[3]) + int(evenPart2[4])
+	print( "sum: " + str(evenPart2Sum))
+	sum1 = evenPart2Sum + int(tgtSin[0]) + int(tgtSin[2]) + int(tgtSin[4]) + int(tgtSin[6])
+	print( "sum+odd part: " + str(sum1))
+	result = int(((sum1 / 10) +1 ) * 10 - sum1 ) % 10
+	print("r: " + str(result))
+	return result == int(tgtSin[8])
+
+def genSin(tgtSin):
+    
+	if tgtSin == "" or tgtSin.isspace():
+		tgtSin = str(time.time())[1:10]
+
+	while not validateSin(tgtSin) :
+		tgtSin = str(int(tgtSin) + 1)
+
+
+	return tgtSin
+	
+print("sin:" + genSin(""))
+
